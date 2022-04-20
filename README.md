@@ -1,4 +1,4 @@
-# udacity_project_it
+# trends_it_udacity_project
 test repo for udacity data science course project
 
 ### Table of Contents
