@@ -17,9 +17,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2011 to 2020 to better understand:
 
-1. Tendences in IT developing, learn more about trends in this market?
+1. Can we predict the job satisfaction?
 2. What factors are most important to job satisfaction?
-3. What is the impact of the education level or Ph.D degree on salary over time?
+3. Tendencies and trends on IT developing market, most popular languages and platforms?
 
 ## File Descriptions <a name="files"></a>
 
